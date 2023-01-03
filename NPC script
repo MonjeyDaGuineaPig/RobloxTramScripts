@@ -1,0 +1,8 @@
+--Variables
+local NPC = script.Parent
+local part1 = Workspace.Part1
+local part2 = Workspace.Part2
+
+--movement
+humanoid
+
